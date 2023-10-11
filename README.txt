@@ -1,16 +1,20 @@
 yeah
 
-download this and then use the launcher EXE file.
+I haven't updated the actual files while i'm writing this but there should be a forge installer.
 
-Open prism and then select add instance
+Run that.
 
-select import
+then go to:
+    %appdata%/.minecraft/
+and either open or create a folder called "mods" (lowercase)
 
-provide the zip file's location (you can just browse and go to downloads to find it.)
+drag the mods from the similar location in the zip file into mods folder under .minecraft
 
-start the game (after linking your account and stuff)
+there should be a new instance in the launcher.
 
-the server is already in the list.
+launch the game
+
+ip is dumpcraft.apexmc.co
 
 join
 join
@@ -20,3 +24,5 @@ joinm
 nipon
 joij
 joinjion
+
+(if you have questions DM/text me)
