@@ -6,9 +6,8 @@ Run that.
 
 then go to:
     %appdata%/.minecraft/
-and either open or create a folder called "mods" (lowercase)
 
-drag the mods from the similar location in the zip file into mods folder under .minecraft
+move the mods folder into that.
 
 there should be a new instance in the launcher.
 
